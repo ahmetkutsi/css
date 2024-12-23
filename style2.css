@@ -270,32 +270,32 @@ blockquote p {
 	z-index:10;
 }
 .dc_lb{
-	left: 30px;
-	bottom:30px;
- 	border-bottom: 1px dashed;
+	left: 10px;
+	bottom: 10px;
+	border-bottom: 1px dashed;
 	border-left:1px dashed;
- 	border-radius: 0 0 0 20px  
+	border-radius: 0 0 0 20px
 }
 .dc_rb{
-	right: 30px;
-	bottom:30px;
- 	border-bottom: 1px dashed;
+	right: 10px;
+	bottom: 10px;
+	border-bottom: 1px dashed;
 	border-right:1px dashed;
- 	border-radius:  0 0 20px 0
+	border-radius:  0 0 20px 0
 }
 .dc_rt {
-	right: 30px;
-	top:30px;
- 	border-top: 1px dashed;
+	right: 10px;
+	top: 10px;
+	border-top: 1px dashed;
 	border-right:1px dashed;
- 	border-radius:0 20px 0 0	
+	border-radius:0 20px 0 0
 }
 .dc_lt {
-	left: 30px;
-	top:30px;
- 	border-top: 1px dashed;
+	left: 10px;
+	top: 10px;
+	border-top: 1px dashed;
 	border-left:1px dashed;
- 	border-radius: 20px 0 0 0	
+	border-radius: 20px 0 0 0
 }
 .dec-corner  {
 	border-color:rgba(255,255,255,.4);
@@ -5171,7 +5171,7 @@ min-height: 362px;
 	line-height: 40px;
 }
 .content-section.parallax-section.hero-section.htc_single_item {
-    padding: 220px 0 70px;
+    padding: 275px 0 120px;
     height: auto;
 }
 .image-collge-wrap {
@@ -5385,6 +5385,7 @@ min-height: 362px;
 }
 .fw-search-wrap {
     margin-bottom: 20px;
+    height: 400px;
 }
 .gid_link {
     position: relative;
