@@ -2682,6 +2682,9 @@ min-height: 362px;
 	transform: translate(-50%, -50%);
 	line-height: 0;
 	z-index: -1;
+    aspect-ratio: 16 / 9; 
+    max-width: 100%; 
+    height: auto;
 }
 .video-container video {
 	width: 100%;
